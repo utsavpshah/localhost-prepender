@@ -1,5 +1,5 @@
 {
-    "name": "Localhost Open Port",
+    "name": "Localhost Prepender",
     "description": "Press Ctrl+Shift+F to enter the port number.",
     "version": "1.0",
     "manifest_version": 2,

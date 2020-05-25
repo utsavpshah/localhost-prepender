@@ -9,3 +9,10 @@ Although Chrome has Bookmarks and Search History, I am too lazy to type ```local
 # Enhancements
 * I also refer Swagger-UI for the API documentation. So, extend this to append URL for swagger-ui (swagger-ui.html)
 * Take input from user to configure the shortcut to invoke this.
+# How to use
+* Clone/Download the source code from the repository.
+* Go to Extensions in Chrome.
+* Enable Developer Console, if not enabled.
+* Click on Load Unpacked Extensions and select the src folder of the cloned repository
+![Alt text](src/images/installed-extension-chrome.jpg?raw=true "After installing from 'Load Unpacked'")
+![Alt text](src/images/installed-extension.jpg?raw=true "Enter port number or URL to open after localhost")
