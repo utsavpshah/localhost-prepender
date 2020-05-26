@@ -20,3 +20,4 @@ Although Chrome has Bookmarks and Search History, I am too lazy to type ```local
 * I also refer Swagger-UI for the API documentation. So, extend this to append URL for swagger-ui (swagger-ui.html)
 * Take input from user to configure the shortcut to invoke this.
 * Publish this to Google Chrome's App Store
+* Take input from user to configure the URL which needs to be prepended. For example, sometimes I use xyz.abc.com instead of localhost due to domain Cookies on local.
